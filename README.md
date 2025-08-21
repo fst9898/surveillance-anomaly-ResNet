@@ -6,5 +6,3 @@ Key contributions:
 Construction of a synthetic dataset with 5 video classes (Normal, Brightness Over, Noise, Color Distortion, Video Jamming).
 
 Implementation and training of ResNet-18 with He initialization and SGD optimizer.
-
-Performance evaluation through 5-Fold Cross Validation and comparison with a physics-informed neural network (PINN-CNN).
