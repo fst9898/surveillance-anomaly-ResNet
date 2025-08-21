@@ -1,4 +1,4 @@
-# surveillance-anomaly-ResNet-PINN
+# surveillance-anomaly-ResNet
 This project focuses on anomaly detection and monitoring in surveillance videos. Manual video analysis is time-consuming and traditional methods often fail to achieve high accuracy. To address this, we implement a ResNet-18 deep neural network for feature extraction and classification.
 
 Key contributions:
